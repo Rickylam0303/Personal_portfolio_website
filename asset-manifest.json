@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Personal_portfolio_website/static/css/main.53ed37f7.css",
-    "main.js": "/Personal_portfolio_website/static/js/main.a8075c90.js",
+    "main.css": "/Personal_portfolio_website/static/css/main.ed9cd6f1.css",
+    "main.js": "/Personal_portfolio_website/static/js/main.3507e692.js",
     "static/media/Resume.pdf": "/Personal_portfolio_website/static/media/Resume.7635627527cff2ddcb8d.pdf",
+    "static/media/about.png": "/Personal_portfolio_website/static/media/about.7f0cf418e8ae1b7983be.png",
     "static/media/profile.jpg": "/Personal_portfolio_website/static/media/profile.cfd7a97c8c60e9d6d5c8.jpg",
-    "static/media/about.jpg": "/Personal_portfolio_website/static/media/about.e1eb83020fabeb22101c.jpg",
     "static/media/weixin-brands-solid.svg": "/Personal_portfolio_website/static/media/weixin-brands-solid.fd6aa7ebb5a68c6cae5a65b42c47ba3d.svg",
     "index.html": "/Personal_portfolio_website/index.html",
-    "main.53ed37f7.css.map": "/Personal_portfolio_website/static/css/main.53ed37f7.css.map",
-    "main.a8075c90.js.map": "/Personal_portfolio_website/static/js/main.a8075c90.js.map"
+    "main.ed9cd6f1.css.map": "/Personal_portfolio_website/static/css/main.ed9cd6f1.css.map",
+    "main.3507e692.js.map": "/Personal_portfolio_website/static/js/main.3507e692.js.map"
   },
   "entrypoints": [
-    "static/css/main.53ed37f7.css",
-    "static/js/main.a8075c90.js"
+    "static/css/main.ed9cd6f1.css",
+    "static/js/main.3507e692.js"
   ]
 }
